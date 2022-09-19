@@ -7,7 +7,7 @@
 ![MacOS Monterey](img/screenshot.png)
 > ## How To Get
 ```
-git clone https://github.com/exxxt4zy/asus-vivobook-x415ja
+git clone https://github.com/exxxt4zy/opencore-vivobook-x415ja
 ```
 > ## ASUS VivoBook Specs
 - [x] <b>Model</b>: Asus Vivobook X415JA
