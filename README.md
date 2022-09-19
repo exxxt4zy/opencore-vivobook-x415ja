@@ -35,7 +35,7 @@ git clone https://github.com/exxxt4zy/opencore-vivobook-x415ja
 | TouchPad - All Gestures              |✅      |
 | Keyboard                             |✅      |
 | FN Keys                              |✅      |
-| Sleep                                |✅      |
+| Sleep (DSDT Patches)                 |✅      |
 | Battery indicator                    |✅      |
 | USB 3.0 and type-c                   |✅      |
 | WIFI Realtek Unsupported             |🟥      |
