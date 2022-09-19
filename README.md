@@ -1,5 +1,5 @@
 # OPENCORE ASUS-Vivobook-X415JA
-- MacOS Catalina 10.15.7
+- MacOS Catalina 10.15.x
 - MacOS BigSur 11.x
 - MacOS Monterey 12.x
 ---
